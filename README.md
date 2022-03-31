@@ -6,7 +6,7 @@ Submitted by: **VAN ANH TRINH**
 
 Time spent: **5** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/laced-invented-chive?path=README.md%3A1%3A0
+Link to project: https://glitch.com/edit/#!/laced-invented-chive?path=index.html%3A1%3A0
 
 ## Required Functionality
 
