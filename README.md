@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](http://g.recordit.co/uyj2lKACIl.gif)
 ![](http://g.recordit.co/4Y73tjidQa.gif)
-![](https://github.com/Atracytr/MemoryGame/blob/main/winning.gif)
+![](https://cdn.glitch.global/7b234ecf-5c91-4857-a90d-58df96de6523/winning.gif?v=1648721439963)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
